@@ -41,9 +41,8 @@ es una sistema software q gestiona los hardwares ( CPU , GPU , ... ) con las app
 **OEM :** es un tipo de licencia q se compra con el ordenador y no se puede venderla porque la licensia esta autorizada solo con tu ordenador , y su un dia el ordenador no se funciona pues pierdes la lisencia ( refiero a los ordenadores q se compran de nuevo , no de segunda mano ) y el OEM no tiene el help desk osea q no puedes contactar con el help de microsoft 
 
 **VOLUME :** es un tipo de licencia q se lo utiliza empresas grandes y esta licencia se puede permitir utilizar un codigo de licencia a monton de dispotivos y ordenadores 
-```
-Cual suele el mas cara ?  
-```
+
+**Cual suele el mas cara ?**  
 
   - El mas cara de todas estas licensais es el Volume porque el Volume es una licencia con variedad utilizadores , o sea q con un codigo de licencia se puede utilizarlo 100 personas  
 
@@ -54,13 +53,13 @@ Cual suele el mas cara ?
  
 
 ## 3- Clasificacion de O.S :  
-```
-    Que es Kernel ? 
-```
+
+ **Que es Kernel ?**
+
 
 **Kernel :** Es un software y es un parte de la sistema aoperativa y se encuentra por la capa baja del S.O , se funciona como un interfaz entre el hardware y las applicaciones . 
 
-    Funciones del Kernel : 
+  **Funciones del Kernel :**
 
 El kernel se funciona a 3 partes son : 
 
@@ -74,83 +73,83 @@ El kernel se funciona a 3 partes son :
 
  
 
-3-1- Por su estructura : 
+## 3-1- Por su estructura : 
 
-a- Monolothic Kernel : es un nucleo realiza todas las funciones con un solo programa , esto hace mas trabajos y arreglar errores pero la actuacion es mucho mas mejor que el otro tipo de nucleo . 
+**a- Monolothic Kernel :** es un nucleo realiza todas las funciones con un solo programa , esto hace mas trabajos y arreglar errores pero la actuacion es mucho mas mejor que el otro tipo de nucleo . 
 
-VENTAJAS : es rapido y con un diseno sencillo y la S.O es mas grande en tamano ( lleva mas GB ) 
+**VENTAJAS :** es rapido y con un diseno sencillo y la S.O es mas grande en tamano ( lleva mas GB ) 
 
-DISVENTAJAS : Un fallo ( Bug ) se puede colapsar la sistema operativa entera y es complejo ( complicated ) a solucionar problemas 
+**DISVENTAJAS :** Un fallo ( Bug ) se puede colapsar la sistema operativa entera y es complejo ( complicated ) a solucionar problemas 
 
-    La gran mayoria de sistemas operatias utilizan el kernel monolotico por ejemplo ( Debian , UBuntu , Fedora , Red Hat , ....) and Unix 
+  - La gran mayoria de sistemas operatias utilizan el kernel monolotico por ejemplo ( Debian , UBuntu , Fedora , Red Hat , ....) and Unix 
 
-b- Micro-Kernel : es un monton de programas juntos que realizan una tarea diferenete cada uno y esto hace mas facil detectar y correctar los errores . 
+**b- Micro-Kernel :** es un monton de programas juntos que realizan una tarea diferenete cada uno y esto hace mas facil detectar y correctar los errores . 
 
-VENTAJAS : es facil en mantimiento  
+**VENTAJAS :** es facil en mantimiento  
 
 - Se sigue funcionando en caso q se pasa algun Bug ( fallo ) 
 
-DISVENTAJAS : Lento y complejo en diseno 
+**DISVENTAJAS :** Lento y complejo en diseno 
 
-    Algunos  S.O utilizan el micro kernel y son el GNU Mach Hurd y L4 TUDOS 
+- Algunos  S.O utilizan el micro kernel y son el GNU Mach Hurd y L4 TUDOS 
 
-c- Diferencia entre el micro y el manolotico Kernels : 
+**c- Diferencia entre el micro y el manolotico Kernels :** 
 Monolithic Kernel based Operating System Application System Call VFS IPC, File System Scheduler, Virtual Memory Device Drivers, Dispatcher, Hardware Microkernel based Operating System user mode kernel mode Application IPC UNIX Server Device Driver File Server Basic IPC, Virtual Memory, Scheduling Hardware
 
  
 
-    Definicion : Actualmente Linux se utiliza un tipo de kernel se llama un kernel monolítico híbrido y este Kernel es diferente de los tradicionales Nucleos 
+   - Definicion : Actualmente Linux se utiliza un tipo de kernel se llama un kernel monolítico híbrido y este Kernel es diferente de los tradicionales Nucleos 
 
-3-2- Por el numero de usarios  : 
+## 3-2- Por el numero de usarios  : 
 
-a- Mono-Usarios : es clasificacion q se autoriza a un usario por la sistema operativa sin importar a cuanto procesos hay por el ordenador y cuanto de tareas se puede hacerla al mismo tiempo , y este tipo de S.O esta famoso por los ordenadores personales .  
+**a- Mono-Usarios :** es clasificacion q se autoriza a un usario por la sistema operativa sin importar a cuanto procesos hay por el ordenador y cuanto de tareas se puede hacerla al mismo tiempo , y este tipo de S.O esta famoso por los ordenadores personales .  
 
 - Y por ejemplo hablamos de sistemas operativas como WINDOWS XP , WINDOWS 7 
 
-b- Multi-Usarios : es un clasificacion de S.O que autoriza a mandar un servico a un utilizador o mas en el mismo timepo , a traves de varias terminales conectadas a la computadora o por medio de sesiones emotas en una red de comunicaciones , no se importa el numero de procesadores en la mquina ni numero de procesos . 
+**b- Multi-Usarios :** es un clasificacion de S.O que autoriza a mandar un servico a un utilizador o mas en el mismo timepo , a traves de varias terminales conectadas a la computadora o por medio de sesiones emotas en una red de comunicaciones , no se importa el numero de procesadores en la mquina ni numero de procesos . 
 
-3-3- Por el numero de tareas  : 
+## 3-3- Por el numero de tareas  : 
 
-a- Mono-Tareas : se permiten una tarea a la vez por usario 
+**a- Mono-Tareas : se permiten una tarea a la vez por usario** 
 
-b- Multi-Tareas : se permiten por el usario a hacer una tarea o varias tareas por el mismo tiempo 
+**b- Multi-Tareas :** se permiten por el usario a hacer una tarea o varias tareas por el mismo tiempo 
 
-3-4- por el numero de procesadores  : 
+## 3-4- por el numero de procesadores  : 
 
-a- Mono-Proceso : es la sistema operativa q puede manejar y gestionar un procesador por la computadora nada mas , si la computadora lleva un segundo procesador o mas pues seria inutil 
+**a- Mono-Proceso :** es la sistema operativa q puede manejar y gestionar un procesador por la computadora nada mas , si la computadora lleva un segundo procesador o mas pues seria inutil 
 
-b- Multi-Proceso : es la sistema operativa q puede gestionar y manejar mas de un procesador por la copmutadora y se puede distrubir la carga del trabajo a todos los procesadores . y la sistem operativa Multi-Proceso lleva 2 tipos ( simetrico y asimetrico ) 
+**b- Multi-Proceso :** es la sistema operativa q puede gestionar y manejar mas de un procesador por la copmutadora y se puede distrubir la carga del trabajo a todos los procesadores . y la sistem operativa Multi-Proceso lleva 2 tipos ( simetrico y asimetrico ) 
 
-3-5- Por el timepo de respuesta  : 
+## 3-5- Por el timepo de respuesta  : 
 
-a- Tiempo Real : la respuesta es inmediata ( o casi ) despues lanzar un proceso 
+**a- Tiempo Real :** la respuesta es inmediata ( o casi ) despues lanzar un proceso 
 
-Los S.O de tiempo real se apican en contorl de tenes , y aviones y ..... 
+- Los S.O de tiempo real se apican en contorl de tenes , y aviones y ..... 
 
-b- Tiempo Compartido : cada proceso utilizara ciclos de la CPU hasta q finalice 
+**b- Tiempo Compartido :** cada proceso utilizara ciclos de la CPU hasta q finalice 
 
-3-6- Por la forma de dar el servicio :  ? ? ? ?  
-
- 
+## 3-6- Por la forma de dar el servicio :  ? ? ? ?  
 
  
 
-4- Sistemas Operativos más usados. 
+ 
 
-4.1 - Para PC-escritorio 
+## 4- Sistemas Operativos más usados. 
+
+### 4.1 - Para PC-escritorio 
 2018-08 Windows 7 Windows 10 Windows 8.1 Windows XP Mac OS X 10.1 Mac OS X 10.1 Linux 42.45% 33.85% 5.48% 4.88% 3.95% 2.64% 1.51% 2019-08 Windows 10 Windows 7 Windows 8.1 Mac OS X 10.14 Windows XP Mac OSX 10.13 Linux Mac OSX 10.12 Windows 8 Mac OS X 10.11 42.70% 36.47% 4.49% 4.42% 2.84% 2.78% 1.53% 1.12% 0.80% 0.72%
 
-4.2 - Para Móviles 
+### 4.2 - Para Móviles 
 
  
 Android iOS Unknown Series 40 Windows Phone OS 2019-08 69.97% 28.76% 1.07% 0.07% 0.06%
 
-4.3 - Para servidores 
+### 4.3 - Para servidores 
 
  
 Operating Systems Most popular operating systems 1. Unix 2. Windows usage 70.4% 29.6% change since 1 August 2019 -0.2% of sites Fastest growing operating systems since 1 August 2019 sites 1. Windows 367 top 10 milli07
 
-a- Para servidores: Supercomputadoras 
+### a- Para servidores: Supercomputadoras 
 
 Supercomputadoras más potentes:  
 
