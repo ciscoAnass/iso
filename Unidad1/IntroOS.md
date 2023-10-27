@@ -14,51 +14,51 @@ es una sistema software q gestiona los hardwares ( CPU , GPU , ... ) con las app
 
 - Pues el mas importante por la esquema es el hardware porque sin hardware no tenemos nada y de segundo la sistema perativa porque sin sistema operativa la mayoria de humanos no serian utilizadores 
 
- 
+ ***
+
+## 1-2 Funciones de O.S : 
+
+**1-Gestion de Procesos  :** Una programa genera uno o varios procesos 
+
+**2-Gestion de  Memoria :** para ejecutar o utilizar un proceso se necesita elegir las direcciones de memoria 
+
+**3-Gestion de  E/S :** es lo que se comunica con lo dispotivos output ( tecla , camara , ....) 
+
+**4-Gestion de  Ficheros :** el responsable de almacenar y restaurar y organizar informaciones en algun distino dispotivo 
+
+**5-Gestion de  red :**  el responsable de gestionar los diferentes niveles del red y los protocolos de comunicación y las aplicaciones de red, etc 
+
+**6-Gestion de  seguridad :** mecanismo para permitir o parar el accesso a usarios y sus procesos 
 
  
-
-1-2 Funciones de O.S : 
-
-1-Gestion de Procesos  : Una programa genera uno o varios procesos 
-
-2-Gestion de  Memoria : para ejecutar o utilizar un proceso se necesita elegir las direcciones de memoria 
-
-3-Gestion de  E/S : es lo que se comunica con lo dispotivos output ( tecla , camara , ....) 
-
-4-Gestion de  Ficheros : el responsable de almacenar y restaurar y organizar informaciones en algun distino dispotivo 
-
-5-Gestion de  red :  el responsable de gestionar los diferentes niveles del red y los protocolos de comunicación y las aplicaciones de red, etc 
-
-6-Gestion de  seguridad : mecanismo para permitir o parar el accesso a usarios y sus procesos 
-
+***
  
 
- 
+## 2- Tipos de licencia : 
 
-2- Tipos de licencia : 
+**RETAIL :** es un tipo de licensia q se puede venderla con toda la autorizacion sin dudas porque esta por la prioridad de su dueno ( tiene helpdesk ) 
 
-RETAIL : es un tipo de licensia q se puede venderla con toda la autorizacion sin dudas porque esta por la prioridad de su dueno ( tiene helpdesk ) 
+**OEM :** es un tipo de licencia q se compra con el ordenador y no se puede venderla porque la licensia esta autorizada solo con tu ordenador , y su un dia el ordenador no se funciona pues pierdes la lisencia ( refiero a los ordenadores q se compran de nuevo , no de segunda mano ) y el OEM no tiene el help desk osea q no puedes contactar con el help de microsoft 
 
-OEM : es un tipo de licencia q se compra con el ordenador y no se puede venderla porque la licensia esta autorizada solo con tu ordenador , y su un dia el ordenador no se funciona pues pierdes la lisencia ( refiero a los ordenadores q se compran de nuevo , no de segunda mano ) y el OEM no tiene el help desk osea q no puedes contactar con el help de microsoft 
-
-VOLUME : es un tipo de licencia q se lo utiliza empresas grandes y esta licencia se puede permitir utilizar un codigo de licencia a monton de dispotivos y ordenadores 
-
+**VOLUME :** es un tipo de licencia q se lo utiliza empresas grandes y esta licencia se puede permitir utilizar un codigo de licencia a monton de dispotivos y ordenadores 
+```
 Cual suele el mas cara ?  
+```
 
-    El mas cara de todas estas licensais es el Volume porque el Volume es una licencia con variedad utilizadores , o sea q con un codigo de licencia se puede utilizarlo 100 personas  
+  - El mas cara de todas estas licensais es el Volume porque el Volume es una licencia con variedad utilizadores , o sea q con un codigo de licencia se puede utilizarlo 100 personas  
 
-    El mas barata es el OEM porque se compra adjuntada con el ordenador y no se puede venderla de otra vez y el razon principale de su preico es que las empresas como ( asus , Dell , Lenovo ,.... ) cuando fabrican un numeor de ordenadores ( por ejemplo 3000 ordenador ) pues estas empresas se van a microsoft y se compran 3000 mil licencias pero por un precio mas barato porque es una comrpa grande 
+  - El mas barata es el OEM porque se compra adjuntada con el ordenador y no se puede venderla de otra vez y el razon principale de su preico es que las empresas como ( asus , Dell , Lenovo ,.... ) cuando fabrican un numeor de ordenadores ( por ejemplo 3000 ordenador ) pues estas empresas se van a microsoft y se compran 3000 mil licencias pero por un precio mas barato porque es una comrpa grande 
 
  
 
  
 
-3- Clasificacion de O.S :  
-
+## 3- Clasificacion de O.S :  
+```
     Que es Kernel ? 
+```
 
-Kernel : Es un software y es un parte de la sistema aoperativa y se encuentra por la capa baja del S.O , se funciona como un interfaz entre el hardware y las applicaciones . 
+**Kernel :** Es un software y es un parte de la sistema aoperativa y se encuentra por la capa baja del S.O , se funciona como un interfaz entre el hardware y las applicaciones . 
 
     Funciones del Kernel : 
 
