@@ -1,5 +1,5 @@
 # Introduccion
-
+****
 ### DEFINICION DE SISTEMA OPERATIVA
 
 es una sistema software q gestiona los hardwares ( CPU , GPU , ... ) con las applicaciones del software y asi q el utilizador puede acceder a los applicaciones sin problemas. 
@@ -8,9 +8,9 @@ es una sistema software q gestiona los hardwares ( CPU , GPU , ... ) con las app
 
 - Y de ejemplo de sistemas operativas podemos decir el windows , el linux , el MacOs , ..... 
 
- 
+ ![hrd](https://github.com/ciscoAnass/iso/blob/main/img/unidad1/GetImage.png)
 
--En la foto por la derecha podemos ver al estrectura de la sistema operativa , de primer viene el user es nosotros q accedemos a aplicaciones y estas applicaciones se existen por la sistema operativa y la sistema operativa se gestiona la comunicacion nuestra para acceder a aplicaciones con el hardware . 
+- En la foto por la arriba podemos ver al estrectura de la sistema operativa , de primer viene el user es nosotros q accedemos a aplicaciones y estas applicaciones se existen por la sistema operativa y la sistema operativa se gestiona la comunicacion nuestra para acceder a aplicaciones con el hardware . 
 
 - Pues el mas importante por la esquema es el hardware porque sin hardware no tenemos nada y de segundo la sistema perativa porque sin sistema operativa la mayoria de humanos no serian utilizadores 
 
